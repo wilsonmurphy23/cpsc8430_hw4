@@ -1,0 +1,9 @@
+clone repo: 
+git clone https://github.com/wilsonmurphy23/cpsc8430_hw4.git
+
+cd cpsc8430-homework4
+
+install the requirements: 
+pip install -r requirements.txt
+
+Run in jupyter notebook
